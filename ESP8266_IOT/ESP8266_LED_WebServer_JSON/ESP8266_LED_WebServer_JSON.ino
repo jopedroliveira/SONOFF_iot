@@ -9,8 +9,9 @@
 #include <ESP8266WebServer.h>
 #include <ESP8266mDNS.h>
 
-const char* ssid = "Vodafone-1D2777";//type your ssid
-const char* password = "8PNXCXgtrw";//type your password
+
+const char* ssid = "****";//type your ssid
+const char* password = "****";//type your password
 
 IPAddress ip(192, 168, 1, 49); //Requested static IP address for the ESP
 IPAddress router(192, 168, 1, 1); // IP address for the Wifi router
