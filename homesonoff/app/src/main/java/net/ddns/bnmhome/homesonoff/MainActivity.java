@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     View mainView;
     //TextView text;
     static String status = "pending";
-    static String ip = "http://bnmhome.ddns.net/api/";
+    static String ip = "****";
 
 
     @Override
